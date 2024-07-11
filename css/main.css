@@ -41,6 +41,10 @@ main {
   flex-direction: column;
   margin: 100px 100px 60px 0;
 }
+#timer {
+  font-weight: bold;
+  font-size: 20px;
+}
 .board-row {
   display: flex;
   justify-content: center;
@@ -54,6 +58,8 @@ main {
   border: 3px solid #d3d6da;
   width: 60px;
   height: 60px;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 /* 푸터 */
